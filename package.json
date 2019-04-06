@@ -38,7 +38,7 @@
   },
   "scripts": {
     "start": "PORT=8886 node scripts/customized-config start",
-    "build": "node scripts/customized-config build && mv build/ docs",
+    "build": "node scripts/customized-config build && rm -rf docs && mv build docs",
     "build:local": "REACT_APP_ENV=development node scripts/customized-config build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
