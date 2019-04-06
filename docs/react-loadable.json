@@ -1,0 +1,622 @@
+{
+  "./routeNames": [
+    {
+      "id": 20,
+      "name": "./src/routes/routeNames.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 20,
+      "name": "./src/routes/routeNames.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "../Layout/DefaultLayout/DefaultLayout": [
+    {
+      "id": 32,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 32,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "./routerManager": [
+    {
+      "id": 33,
+      "name": "./src/routes/routerManager.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 33,
+      "name": "./src/routes/routerManager.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 46,
+      "name": null,
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 55,
+      "name": null,
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 58,
+      "name": null,
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 61,
+      "name": null,
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 46,
+      "name": null,
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    },
+    {
+      "id": 55,
+      "name": null,
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    },
+    {
+      "id": 58,
+      "name": null,
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    },
+    {
+      "id": 61,
+      "name": null,
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "./index.css": [
+    {
+      "id": 54,
+      "name": "./src/index.css",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 54,
+      "name": "./src/index.css",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "../views/Home": [
+    {
+      "id": 56,
+      "name": "./src/views/Home.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 56,
+      "name": "./src/views/Home.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "./DefaultLayout.scss": [
+    {
+      "id": 57,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.scss",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 57,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.scss",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "./App.scss": [
+    {
+      "id": 60,
+      "name": "./src/components/App/App.scss",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 60,
+      "name": "./src/components/App/App.scss",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "./webfont.font": [
+    {
+      "id": 62,
+      "name": "./src/webfont.font.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 62,
+      "name": "./src/webfont.font.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/src/index.js": [
+    {
+      "id": 63,
+      "name": "./src/index.js",
+      "file": "static/css/main.04c299a4.chunk.css",
+      "publicPath": "static/css/main.04c299a4.chunk.css"
+    },
+    {
+      "id": 63,
+      "name": "./src/index.js",
+      "file": "static/js/main.15fd0d0d.chunk.js",
+      "publicPath": "static/js/main.15fd0d0d.chunk.js"
+    }
+  ],
+  "../views/PageNotFound": [
+    {
+      "id": 69,
+      "name": "./src/views/PageNotFound.js",
+      "file": "static/js/PageNotFound.b4cb0e77.chunk.js",
+      "publicPath": "static/js/PageNotFound.b4cb0e77.chunk.js"
+    }
+  ],
+  "react": [
+    {
+      "id": 0,
+      "name": "./node_modules/react/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": 1,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_curry1.js": [
+    {
+      "id": 2,
+      "name": "./node_modules/ramda/es/internal/_curry1.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./_isPlaceholder.js": [
+    {
+      "id": 3,
+      "name": "./node_modules/ramda/es/internal/_isPlaceholder.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_curry2.js": [
+    {
+      "id": 4,
+      "name": "./node_modules/ramda/es/internal/_curry2.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "warning": [
+    {
+      "id": 5,
+      "name": "./node_modules/warning/browser.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/react-router/node_modules/warning/warning.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    },
+    {
+      "id": 40,
+      "name": "./node_modules/react-router-dom/node_modules/warning/warning.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "invariant": [
+    {
+      "id": 6,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck": [
+    {
+      "id": 8,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass": [
+    {
+      "id": 9,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf": [
+    {
+      "id": 10,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn": [
+    {
+      "id": 11,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits": [
+    {
+      "id": 12,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_isArray.js": [
+    {
+      "id": 13,
+      "name": "./node_modules/ramda/es/internal/_isArray.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_has.js": [
+    {
+      "id": 14,
+      "name": "./node_modules/ramda/es/internal/_has.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "redux": [
+    {
+      "id": 15,
+      "name": "./node_modules/redux/es/redux.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_curry3.js": [
+    {
+      "id": 16,
+      "name": "./node_modules/ramda/es/internal/_curry3.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_isString.js": [
+    {
+      "id": 17,
+      "name": "./node_modules/ramda/es/internal/_isString.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 18,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./keys.js": [
+    {
+      "id": 19,
+      "name": "./node_modules/ramda/es/keys.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 21,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./internal/_isArguments.js": [
+    {
+      "id": 22,
+      "name": "./node_modules/ramda/es/internal/_isArguments.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "react-router/es/matchPath": [
+    {
+      "id": 23,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "react-router/es/Route": [
+    {
+      "id": 24,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "react-redux": [
+    {
+      "id": 25,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./equals.js": [
+    {
+      "id": 26,
+      "name": "./node_modules/ramda/es/equals.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 28,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 30,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": 31,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "history": [
+    {
+      "id": 34,
+      "name": "./node_modules/history/es/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 35,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": 36,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 37,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": 38,
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "redux-thunk": [
+    {
+      "id": 39,
+      "name": "./node_modules/redux-thunk/es/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./propEq.js": [
+    {
+      "id": 41,
+      "name": "./node_modules/ramda/es/propEq.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./values.js": [
+    {
+      "id": 42,
+      "name": "./node_modules/ramda/es/values.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./compose.js": [
+    {
+      "id": 43,
+      "name": "./node_modules/ramda/es/compose.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./find.js": [
+    {
+      "id": 44,
+      "name": "./node_modules/ramda/es/find.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./prop.js": [
+    {
+      "id": 45,
+      "name": "./node_modules/ramda/es/prop.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": 47,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": 48,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "scheduler": [
+    {
+      "id": 49,
+      "name": "./node_modules/scheduler/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./cjs/scheduler.production.min.js": [
+    {
+      "id": 50,
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": 51,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": 52,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./../../webpack/buildin/harmony-module.js": [
+    {
+      "id": 53,
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": 59,
+      "name": "./node_modules/react-router/node_modules/isarray/index.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./Route": [
+    {
+      "id": 64,
+      "name": "./node_modules/react-router-dom/es/Route.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./isNil.js": [
+    {
+      "id": 65,
+      "name": "./node_modules/ramda/es/isNil.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./isEmpty.js": [
+    {
+      "id": 66,
+      "name": "./node_modules/ramda/es/isEmpty.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./BrowserRouter": [
+    {
+      "id": 67,
+      "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./withRouter": [
+    {
+      "id": 68,
+      "name": "./node_modules/react-router-dom/es/withRouter.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ],
+  "./Switch": [
+    {
+      "id": 70,
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "static/js/2.9079cb7d.chunk.js",
+      "publicPath": "static/js/2.9079cb7d.chunk.js"
+    }
+  ]
+}

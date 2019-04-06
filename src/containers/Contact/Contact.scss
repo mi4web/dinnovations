@@ -1,0 +1,46 @@
+@import "../../commonstyles/variables.scss";
+
+.contact {
+    flex: 1 0 0;
+    .mapouter {
+        position: relative;
+        text-align: right;
+        height: 500px;
+        width: 600px;
+    }
+
+    .gmap_canvas {
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 600px;
+    }
+
+    .address {
+        padding: 0 50px;
+        color: $grey4;
+        align-self: flex-end;
+
+        .head {
+            font-size: 20px;
+            color: $text-primary
+        }
+
+        p {
+            line-height: 25px;
+        }
+
+        .contactItem {
+            display: block;
+            a {
+                line-height: 25px;
+                padding-left: 4px;
+                color: $grey4;
+
+                &:hover {
+                    color: $text-primary
+                }
+            }
+        }
+    }
+}

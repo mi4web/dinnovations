@@ -1,0 +1,21 @@
+@import "../../commonstyles/variables.scss";
+
+.about {
+    flex: 1 0 0;
+    .imageContainer {
+        flex-basis: 40%;
+        flex-shrink: 0;
+    }
+    .profile {
+        padding-right: 20px;
+        line-height: 18px;
+        .head {
+            font-size: 16px;
+            line-height: 25px;
+        }
+        .profileDesc {
+            color: $text-secondary;
+            line-height: 20px;
+        }
+    }
+}
