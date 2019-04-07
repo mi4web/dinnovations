@@ -34,8 +34,8 @@ export default class App extends React.Component {
         return (
             <div className="hamburger">
                 <div className={"menuButton container"}>
-                    <MenuButton open={this.state.menuOpen} onClick={() => this.handleMenuClick()} color='white'/>
-                    <div className={"logo"}>D Innovations</div>
+                    <MenuButton open={this.state.menuOpen} onClick={() => this.handleMenuClick()}/>
+                    <div className={"logo"}><span className="brandName"><span className="brandColor">D I</span>nnovations</span></div>
                 </div>
                 <Menu open={this.state.menuOpen}>
                     {menuItems}
@@ -134,7 +134,7 @@ class MenuButton extends React.Component {
         super(props);
         this.state = {
             open: this.props.open ? this.props.open : false,
-            color: this.props.color ? this.props.color : 'black',
+            color: this.props.color ? this.props.color : '#777',
         }
     }
 
