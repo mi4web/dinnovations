@@ -12,7 +12,9 @@ class Projects extends Component {
     render() {
         return (
             <div className="projectsPage">
-
+                    <div className="head">
+                            <span>PROJECTS</span>
+                    </div>
                     <ResponsiveMasonry columnsCountBreakPoints={{350: 1, 750: 2, 900: 3}}>
                             <Masonry gutter={5}>
                                     <img src="https://static1.squarespace.com/static/50a3551ee4b0470a27b73ea6/t/5371c0c8e4b0cb63d6f519af/1399963853219/01.jpg?format=500w" alt=""/>

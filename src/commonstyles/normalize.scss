@@ -26,7 +26,7 @@ input,
 pre,
 select,
 textarea {
-    font-family: Roboto, Helvetica, Arial; //font-display: auto;
+    font-family: 'Nunito', sans-serif;
 }
 
 code,
@@ -34,6 +34,7 @@ pre {
     -moz-osx-font-smoothing: auto;
     -webkit-font-smoothing: auto;
     line-height: 1.5px;
+    font-family: 'Nunito', sans-serif;
 }
 
 img {

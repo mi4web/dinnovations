@@ -1,28 +1,32 @@
 @import "../../commonstyles/variables.scss";
 
-.navbar {
-    padding: 30px 0;
-    a {
-        text-decoration: none;
-        text-transform: uppercase;
-        color: $grey3;
-        font-size: 12px;
-        padding: 20px;
+.navigation {
+    .navbar {
+        padding: 30px 0;
 
-        &:first-child {
-            padding-left: 0px;
-        }
+        a {
+            text-decoration: none;
+            text-transform: uppercase;
+            color: $grey3;
+            font-size: 0.85rem;
+            padding: 20px;
 
-        &:not(:last-child) {
-            margin-right: 25px;
-        }
+            &:first-child {
+                padding-left: 0px;
+            }
 
-        &:hover {
-            color: $red;
-        }
-        &.active {
-            font-weight: 500;
-            color: $text-primary
+            &:not(:last-child) {
+                margin-right: 25px;
+            }
+
+            &:hover {
+                color: $red;
+            }
+
+            &.active {
+                font-weight: 500;
+                color: $text-primary
+            }
         }
     }
 }

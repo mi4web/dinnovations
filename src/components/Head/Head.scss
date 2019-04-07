@@ -1,33 +1,10 @@
-@import "../../commonstyles/variables.scss";
-
-.about {
-    .imageContainer {
-        flex-basis: 40%;
-        flex-shrink: 0;
-    }
-
+@media only screen and (max-width: 767px) {
     .head {
+        display: block;
+        text-align: center;
         font-size: 1.15rem;
         line-height: 25px;
-    }
-
-    .profile {
-        line-height: 18px;
-
-        .profileDesc {
-            color: $text-secondary;
-            line-height: 20px;
-            padding-right: 20px;
-        }
-    }
-}
-
-@media only screen and (max-width: 767px) {
-    .about {
-        padding-top: 20px;
-    }
-    .head {
-        text-align: center;
+        padding: 20px 0;
         span {
             position: relative;
             &:before {
@@ -51,13 +28,6 @@
                 top: 50%;
                 transform: translateY(-50%);
             }
-        }
-    }
-    .profile.flex-row {
-        display: flex;
-        flex-direction: column-reverse;
-        .imageContainer {
-            padding: 20px 0;
         }
     }
 }

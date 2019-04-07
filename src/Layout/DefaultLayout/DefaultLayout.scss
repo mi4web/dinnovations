@@ -3,12 +3,11 @@
 .mainContainer {
     max-width: 1020px;
     margin: 0 auto;
-    padding-top: 50px;
-    padding-bottom: 10px;
+    padding: 50px 20px 10px 20px;
     display: flex;
     flex-direction: column;
     footer {
-        font-size: 12px;
+        font-size: 0.85rem;
         color: $text-secondary;
         padding-top: 20px;
         .socialIcons {
@@ -23,5 +22,20 @@
     }
     .brandName {
         font-size: 28px;
+    }
+
+    @media only screen and (max-width: 767px) {
+        .deskTopNav {
+            display: none;
+        }
+        footer {
+            display: flex;
+            flex-direction: column-reverse;
+            font-size: 0.7rem;
+            text-align: center;
+            .socialIcons i {
+                padding: 20px;
+            }
+        }
     }
 }
