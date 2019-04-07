@@ -1,1446 +1,1626 @@
 {
   "./routeNames": [
     {
-      "id": 13,
+      "id": 15,
       "name": "./src/routes/routeNames.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 13,
+      "id": 15,
       "name": "./src/routes/routeNames.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../Layout/DefaultLayout/DefaultLayout": [
-    {
-      "id": 14,
-      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 14,
-      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./routerManager": [
     {
       "id": 16,
       "name": "./src/routes/routerManager.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
       "id": 16,
       "name": "./src/routes/routerManager.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../Layout/DefaultLayout/DefaultLayout": [
+    {
+      "id": 19,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 19,
+      "name": "./src/Layout/DefaultLayout/DefaultLayout.js",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "../constants/appConstants": [
     {
-      "id": 28,
+      "id": 24,
       "name": "./src/constants/appConstants.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 28,
+      "id": 24,
       "name": "./src/constants/appConstants.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../../Img/work/work1.jpg": [
-    {
-      "id": 33,
-      "name": "./src/Img/work/work1.jpg",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 33,
-      "name": "./src/Img/work/work1.jpg",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../../Img/work/work2.jpg": [
-    {
-      "id": 34,
-      "name": "./src/Img/work/work2.jpg",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 34,
-      "name": "./src/Img/work/work2.jpg",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../../Img/work/work3.jpg": [
-    {
-      "id": 35,
-      "name": "./src/Img/work/work3.jpg",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 35,
-      "name": "./src/Img/work/work3.jpg",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../../Img/work/work4.jpg": [
-    {
-      "id": 36,
-      "name": "./src/Img/work/work4.jpg",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 36,
-      "name": "./src/Img/work/work4.jpg",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    }
-  ],
-  "../../Img/work/work5.jpg": [
-    {
-      "id": 37,
-      "name": "./src/Img/work/work5.jpg",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 37,
-      "name": "./src/Img/work/work5.jpg",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "../views/Home": [
     {
-      "id": 56,
+      "id": 40,
       "name": "./src/views/Home.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 56,
+      "id": 40,
       "name": "./src/views/Home.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../../Img/work/work1.jpg": [
+    {
+      "id": 44,
+      "name": "./src/Img/work/work1.jpg",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 44,
+      "name": "./src/Img/work/work1.jpg",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../../Img/work/work2.jpg": [
+    {
+      "id": 45,
+      "name": "./src/Img/work/work2.jpg",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 45,
+      "name": "./src/Img/work/work2.jpg",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../../Img/work/work3.jpg": [
+    {
+      "id": 46,
+      "name": "./src/Img/work/work3.jpg",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 46,
+      "name": "./src/Img/work/work3.jpg",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../../Img/work/work4.jpg": [
+    {
+      "id": 47,
+      "name": "./src/Img/work/work4.jpg",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 47,
+      "name": "./src/Img/work/work4.jpg",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "../../Img/work/work5.jpg": [
+    {
+      "id": 48,
+      "name": "./src/Img/work/work5.jpg",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 48,
+      "name": "./src/Img/work/work5.jpg",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "undefined": [
     {
-      "id": 62,
+      "id": 68,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 71,
+      "id": 77,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 73,
+      "id": 79,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 75,
+      "id": 81,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 78,
+      "id": 83,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 92,
+      "id": 86,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 94,
+      "id": 100,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 96,
+      "id": 102,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 104,
+      "name": null,
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 106,
+      "name": null,
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 68,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 77,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 79,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 81,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 83,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 86,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 100,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 102,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 104,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    },
+    {
+      "id": 106,
+      "name": null,
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     },
     {
       "id": 98,
       "name": null,
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
-    },
-    {
-      "id": 62,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 71,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 73,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 75,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 78,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 92,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 94,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 96,
-      "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 98,
       "name": null,
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
-    },
-    {
-      "id": 90,
-      "name": null,
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 90,
-      "name": null,
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./index.css": [
     {
-      "id": 70,
+      "id": 76,
       "name": "./src/index.css",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 70,
+      "id": 76,
       "name": "./src/index.css",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./DefaultLayout.scss": [
     {
-      "id": 72,
+      "id": 78,
       "name": "./src/Layout/DefaultLayout/DefaultLayout.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 72,
+      "id": 78,
       "name": "./src/Layout/DefaultLayout/DefaultLayout.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./Navbar.scss": [
     {
-      "id": 74,
+      "id": 80,
       "name": "./src/components/Nav/Navbar.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 74,
+      "id": 80,
       "name": "./src/components/Nav/Navbar.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
+    }
+  ],
+  "./Hamburger.scss": [
+    {
+      "id": 82,
+      "name": "./src/components/Hamburger/Hamburger.scss",
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
+    },
+    {
+      "id": 82,
+      "name": "./src/components/Hamburger/Hamburger.scss",
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./HomePage.scss": [
     {
-      "id": 77,
+      "id": 85,
       "name": "./src/containers/HomePage/HomePage.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 77,
+      "id": 85,
       "name": "./src/containers/HomePage/HomePage.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./About.scss": [
     {
-      "id": 91,
+      "id": 99,
       "name": "./src/containers/About/About.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 91,
+      "id": 99,
       "name": "./src/containers/About/About.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./Contact.scss": [
     {
-      "id": 93,
+      "id": 101,
       "name": "./src/containers/Contact/Contact.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 93,
+      "id": 101,
       "name": "./src/containers/Contact/Contact.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./Projects.scss": [
     {
-      "id": 95,
+      "id": 103,
       "name": "./src/containers/Projects/Projects.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 95,
+      "id": 103,
       "name": "./src/containers/Projects/Projects.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./App.scss": [
     {
-      "id": 97,
+      "id": 105,
       "name": "./src/components/App/App.scss",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 97,
+      "id": 105,
       "name": "./src/components/App/App.scss",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "./webfont.font": [
     {
-      "id": 99,
+      "id": 107,
       "name": "./src/webfont.font.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 99,
+      "id": 107,
       "name": "./src/webfont.font.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "/Users/imamudin/projects/mi4web/dinnovations/src/index.js": [
     {
-      "id": 100,
+      "id": 108,
       "name": "./src/index.js",
-      "file": "static/css/main.3ee13353.chunk.css",
-      "publicPath": "static/css/main.3ee13353.chunk.css"
+      "file": "static/css/main.3a00c275.chunk.css",
+      "publicPath": "static/css/main.3a00c275.chunk.css"
     },
     {
-      "id": 100,
+      "id": 108,
       "name": "./src/index.js",
-      "file": "static/js/main.afe0f6fa.chunk.js",
-      "publicPath": "static/js/main.afe0f6fa.chunk.js"
+      "file": "static/js/main.0cfcb474.chunk.js",
+      "publicPath": "static/js/main.0cfcb474.chunk.js"
     }
   ],
   "../views/PageNotFound": [
     {
-      "id": 103,
+      "id": 112,
       "name": "./src/views/PageNotFound.js",
-      "file": "static/js/PageNotFound.a4479513.chunk.js",
-      "publicPath": "static/js/PageNotFound.a4479513.chunk.js"
+      "file": "static/js/PageNotFound.0a3ba3d0.chunk.js",
+      "publicPath": "static/js/PageNotFound.0a3ba3d0.chunk.js"
     }
   ],
   "react": [
     {
       "id": 0,
       "name": "./node_modules/react/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 0,
       "name": "./node_modules/react/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "prop-types": [
     {
       "id": 1,
       "name": "./node_modules/prop-types/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 44,
+      "id": 54,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 84,
+      "id": 92,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 1,
       "name": "./node_modules/prop-types/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 44,
+      "id": 54,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 84,
+      "id": 92,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./internal/_curry1.js": [
     {
       "id": 2,
       "name": "./node_modules/ramda/es/internal/_curry1.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 2,
       "name": "./node_modules/ramda/es/internal/_curry1.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck": [
-    {
-      "id": 3,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 3,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass": [
-    {
-      "id": 4,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 4,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf": [
-    {
-      "id": 5,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 5,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn": [
-    {
-      "id": 6,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 6,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits": [
-    {
-      "id": 7,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 7,
-      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./_isPlaceholder.js": [
-    {
-      "id": 8,
-      "name": "./node_modules/ramda/es/internal/_isPlaceholder.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 8,
-      "name": "./node_modules/ramda/es/internal/_isPlaceholder.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./internal/_curry2.js": [
     {
-      "id": 9,
+      "id": 3,
       "name": "./node_modules/ramda/es/internal/_curry2.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 3,
+      "name": "./node_modules/ramda/es/internal/_curry2.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck": [
+    {
+      "id": 4,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 4,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass": [
+    {
+      "id": 5,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 5,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf": [
+    {
+      "id": 6,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 6,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn": [
+    {
+      "id": 7,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits": [
+    {
+      "id": 8,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 8,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/inherits.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./_isPlaceholder.js": [
+    {
+      "id": 9,
+      "name": "./node_modules/ramda/es/internal/_isPlaceholder.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 9,
-      "name": "./node_modules/ramda/es/internal/_curry2.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "name": "./node_modules/ramda/es/internal/_isPlaceholder.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "warning": [
     {
       "id": 10,
       "name": "./node_modules/warning/browser.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 12,
+      "id": 14,
       "name": "./node_modules/react-router/node_modules/warning/warning.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 55,
+      "id": 64,
       "name": "./node_modules/react-router-dom/node_modules/warning/warning.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 10,
       "name": "./node_modules/warning/browser.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 12,
+      "id": 14,
       "name": "./node_modules/react-router/node_modules/warning/warning.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 55,
+      "id": 64,
       "name": "./node_modules/react-router-dom/node_modules/warning/warning.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "invariant": [
     {
       "id": 11,
       "name": "./node_modules/invariant/browser.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 11,
       "name": "./node_modules/invariant/browser.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./internal/_isArray.js": [
-    {
-      "id": 15,
-      "name": "./node_modules/ramda/es/internal/_isArray.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 15,
-      "name": "./node_modules/ramda/es/internal/_isArray.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./internal/_has.js": [
-    {
-      "id": 17,
-      "name": "./node_modules/ramda/es/internal/_has.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 17,
-      "name": "./node_modules/ramda/es/internal/_has.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "redux": [
-    {
-      "id": 18,
-      "name": "./node_modules/redux/es/redux.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 18,
-      "name": "./node_modules/redux/es/redux.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./internal/_curry3.js": [
-    {
-      "id": 19,
-      "name": "./node_modules/ramda/es/internal/_curry3.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 19,
-      "name": "./node_modules/ramda/es/internal/_curry3.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./internal/_isString.js": [
-    {
-      "id": 20,
-      "name": "./node_modules/ramda/es/internal/_isString.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 20,
-      "name": "./node_modules/ramda/es/internal/_isString.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "react-loadable": [
-    {
-      "id": 21,
-      "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 21,
-      "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./keys.js": [
     {
-      "id": 22,
+      "id": 12,
       "name": "./node_modules/ramda/es/keys.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 12,
+      "name": "./node_modules/ramda/es/keys.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_isArray.js": [
+    {
+      "id": 13,
+      "name": "./node_modules/ramda/es/internal/_isArray.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 13,
+      "name": "./node_modules/ramda/es/internal/_isArray.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_isString.js": [
+    {
+      "id": 17,
+      "name": "./node_modules/ramda/es/internal/_isString.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 17,
+      "name": "./node_modules/ramda/es/internal/_isString.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_has.js": [
+    {
+      "id": 18,
+      "name": "./node_modules/ramda/es/internal/_has.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 18,
+      "name": "./node_modules/ramda/es/internal/_has.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_arity.js": [
+    {
+      "id": 20,
+      "name": "./node_modules/ramda/es/internal/_arity.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 20,
+      "name": "./node_modules/ramda/es/internal/_arity.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./_xfBase.js": [
+    {
+      "id": 21,
+      "name": "./node_modules/ramda/es/internal/_xfBase.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 21,
+      "name": "./node_modules/ramda/es/internal/_xfBase.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "redux": [
+    {
+      "id": 22,
+      "name": "./node_modules/redux/es/redux.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 22,
-      "name": "./node_modules/ramda/es/keys.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "name": "./node_modules/redux/es/redux.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "hoist-non-react-statics": [
+  "./internal/_curry3.js": [
     {
-      "id": 24,
-      "name": "./node_modules/hoist-non-react-statics/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 23,
+      "name": "./node_modules/ramda/es/internal/_curry3.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 24,
-      "name": "./node_modules/hoist-non-react-statics/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./internal/_isArguments.js": [
-    {
-      "id": 25,
-      "name": "./node_modules/ramda/es/internal/_isArguments.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 25,
-      "name": "./node_modules/ramda/es/internal/_isArguments.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "react-router/es/Route": [
-    {
-      "id": 26,
-      "name": "./node_modules/react-router/es/Route.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 26,
-      "name": "./node_modules/react-router/es/Route.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "react-router/es/matchPath": [
-    {
-      "id": 27,
-      "name": "./node_modules/react-router/es/matchPath.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 27,
-      "name": "./node_modules/react-router/es/matchPath.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "react-redux": [
-    {
-      "id": 29,
-      "name": "./node_modules/react-redux/es/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 29,
-      "name": "./node_modules/react-redux/es/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "history": [
-    {
-      "id": 30,
-      "name": "./node_modules/history/es/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 30,
-      "name": "./node_modules/history/es/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 23,
+      "name": "./node_modules/ramda/es/internal/_curry3.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./equals.js": [
     {
-      "id": 31,
+      "id": 25,
       "name": "./node_modules/ramda/es/equals.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 25,
+      "name": "./node_modules/ramda/es/equals.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_reduce.js": [
+    {
+      "id": 26,
+      "name": "./node_modules/ramda/es/internal/_reduce.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 26,
+      "name": "./node_modules/ramda/es/internal/_reduce.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_dispatchable.js": [
+    {
+      "id": 27,
+      "name": "./node_modules/ramda/es/internal/_dispatchable.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 27,
+      "name": "./node_modules/ramda/es/internal/_dispatchable.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./internal/_map.js": [
+    {
+      "id": 28,
+      "name": "./node_modules/ramda/es/internal/_map.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 28,
+      "name": "./node_modules/ramda/es/internal/_map.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 30,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 30,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 31,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 31,
-      "name": "./node_modules/ramda/es/equals.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "react-dom": [
+  "./internal/_isArguments.js": [
     {
       "id": 32,
-      "name": "./node_modules/react-dom/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "name": "./node_modules/ramda/es/internal/_isArguments.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 32,
-      "name": "./node_modules/react-dom/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "name": "./node_modules/ramda/es/internal/_isArguments.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "symbol-observable": [
+  "react-router/es/Route": [
     {
-      "id": 38,
-      "name": "./node_modules/symbol-observable/es/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 33,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 38,
-      "name": "./node_modules/symbol-observable/es/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 33,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "./Link": [
+  "react-router/es/matchPath": [
     {
-      "id": 39,
-      "name": "./node_modules/react-router-dom/es/Link.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 34,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 39,
-      "name": "./node_modules/react-router-dom/es/Link.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 34,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "react-responsive-masonry": [
+  "./internal/_isObject.js": [
     {
-      "id": 40,
-      "name": "./node_modules/react-responsive-masonry/es/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 35,
+      "name": "./node_modules/ramda/es/internal/_isObject.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 40,
-      "name": "./node_modules/react-responsive-masonry/es/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 35,
+      "name": "./node_modules/ramda/es/internal/_isObject.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "object-assign": [
+  "react-redux": [
     {
-      "id": 42,
-      "name": "./node_modules/object-assign/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 36,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 42,
-      "name": "./node_modules/object-assign/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 36,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "./../../webpack/buildin/global.js": [
+  "history": [
     {
-      "id": 43,
-      "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 37,
+      "name": "./node_modules/history/es/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 43,
-      "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "../cssClasses": [
-    {
-      "id": 45,
-      "name": "./node_modules/react-responsive-carousel/lib/cssClasses.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 45,
-      "name": "./node_modules/react-responsive-carousel/lib/cssClasses.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "../CSSTranslate": [
-    {
-      "id": 46,
-      "name": "./node_modules/react-responsive-carousel/lib/CSSTranslate.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 46,
-      "name": "./node_modules/react-responsive-carousel/lib/CSSTranslate.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "react-easy-swipe": [
-    {
-      "id": 47,
-      "name": "./node_modules/react-easy-swipe/lib/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 47,
-      "name": "./node_modules/react-easy-swipe/lib/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./components/Thumbs": [
-    {
-      "id": 48,
-      "name": "./node_modules/react-responsive-carousel/lib/components/Thumbs.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 48,
-      "name": "./node_modules/react-responsive-carousel/lib/components/Thumbs.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./_freeGlobal.js": [
-    {
-      "id": 49,
-      "name": "./node_modules/lodash-es/_freeGlobal.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 49,
-      "name": "./node_modules/lodash-es/_freeGlobal.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./ponyfill.js": [
-    {
-      "id": 50,
-      "name": "./node_modules/symbol-observable/es/ponyfill.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 50,
-      "name": "./node_modules/symbol-observable/es/ponyfill.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 37,
+      "name": "./node_modules/history/es/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./Route": [
     {
-      "id": 51,
+      "id": 38,
       "name": "./node_modules/react-router-dom/es/Route.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 38,
+      "name": "./node_modules/react-router-dom/es/Route.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./filter.js": [
+    {
+      "id": 39,
+      "name": "./node_modules/ramda/es/filter.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 39,
+      "name": "./node_modules/ramda/es/filter.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "/Users/imamudin/projects/mi4web/dinnovations/node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/objectSpread": [
+    {
+      "id": 41,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/objectSpread.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 41,
+      "name": "./node_modules/react-scripts/node_modules/@babel/runtime/helpers/esm/objectSpread.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 43,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 43,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 49,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 49,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./Link": [
+    {
+      "id": 50,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 50,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "react-responsive-masonry": [
+    {
+      "id": 51,
+      "name": "./node_modules/react-responsive-masonry/es/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
       "id": 51,
-      "name": "./node_modules/react-router-dom/es/Route.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "name": "./node_modules/react-responsive-masonry/es/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 52,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 52,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": 53,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 53,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "../cssClasses": [
+    {
+      "id": 55,
+      "name": "./node_modules/react-responsive-carousel/lib/cssClasses.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 55,
+      "name": "./node_modules/react-responsive-carousel/lib/cssClasses.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "../CSSTranslate": [
+    {
+      "id": 56,
+      "name": "./node_modules/react-responsive-carousel/lib/CSSTranslate.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 56,
+      "name": "./node_modules/react-responsive-carousel/lib/CSSTranslate.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "react-easy-swipe": [
+    {
+      "id": 57,
+      "name": "./node_modules/react-easy-swipe/lib/index.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 57,
+      "name": "./node_modules/react-easy-swipe/lib/index.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./components/Thumbs": [
+    {
+      "id": 58,
+      "name": "./node_modules/react-responsive-carousel/lib/components/Thumbs.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 58,
+      "name": "./node_modules/react-responsive-carousel/lib/components/Thumbs.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": 59,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 59,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 60,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 60,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "path-to-regexp": [
     {
-      "id": 52,
+      "id": 61,
       "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 52,
+      "id": 61,
       "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "react-responsive-carousel": [
     {
-      "id": 53,
+      "id": 62,
       "name": "./node_modules/react-responsive-carousel/lib/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 53,
+      "id": 62,
       "name": "./node_modules/react-responsive-carousel/lib/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "redux-thunk": [
     {
-      "id": 54,
+      "id": 63,
       "name": "./node_modules/redux-thunk/es/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 54,
+      "id": 63,
       "name": "./node_modules/redux-thunk/es/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./propEq.js": [
     {
-      "id": 57,
+      "id": 65,
       "name": "./node_modules/ramda/es/propEq.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 57,
+      "id": 65,
       "name": "./node_modules/ramda/es/propEq.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./values.js": [
     {
-      "id": 58,
+      "id": 66,
       "name": "./node_modules/ramda/es/values.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 58,
+      "id": 66,
       "name": "./node_modules/ramda/es/values.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./compose.js": [
-    {
-      "id": 59,
-      "name": "./node_modules/ramda/es/compose.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 59,
-      "name": "./node_modules/ramda/es/compose.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./find.js": [
     {
-      "id": 60,
+      "id": 67,
       "name": "./node_modules/ramda/es/find.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 60,
+      "id": 67,
       "name": "./node_modules/ramda/es/find.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
-    }
-  ],
-  "./prop.js": [
-    {
-      "id": 61,
-      "name": "./node_modules/ramda/es/prop.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
-    },
-    {
-      "id": 61,
-      "name": "./node_modules/ramda/es/prop.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./cjs/react.production.min.js": [
     {
-      "id": 63,
+      "id": 69,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 63,
+      "id": 69,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./cjs/react-dom.production.min.js": [
     {
-      "id": 64,
+      "id": 70,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 64,
+      "id": 70,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "scheduler": [
     {
-      "id": 65,
+      "id": 71,
       "name": "./node_modules/scheduler/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 65,
+      "id": 71,
       "name": "./node_modules/scheduler/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./cjs/scheduler.production.min.js": [
     {
-      "id": 66,
+      "id": 72,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 66,
+      "id": 72,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./factoryWithThrowingShims": [
     {
-      "id": 67,
+      "id": 73,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 80,
+      "id": 88,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 85,
+      "id": 93,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 67,
+      "id": 73,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 80,
+      "id": 88,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 85,
+      "id": 93,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./lib/ReactPropTypesSecret": [
     {
-      "id": 68,
+      "id": 74,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 81,
+      "id": 89,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 86,
+      "id": 94,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 68,
+      "id": 74,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 81,
+      "id": 89,
       "name": "./node_modules/react-responsive-carousel/node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     },
     {
-      "id": 86,
+      "id": 94,
       "name": "./node_modules/react-easy-swipe/node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./../../webpack/buildin/harmony-module.js": [
     {
-      "id": 69,
+      "id": 75,
       "name": "./node_modules/webpack/buildin/harmony-module.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 69,
+      "id": 75,
       "name": "./node_modules/webpack/buildin/harmony-module.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "isarray": [
     {
-      "id": 76,
+      "id": 84,
       "name": "./node_modules/react-router/node_modules/isarray/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 76,
+      "id": 84,
       "name": "./node_modules/react-router/node_modules/isarray/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./components/Carousel": [
     {
-      "id": 79,
+      "id": 87,
       "name": "./node_modules/react-responsive-carousel/lib/components/Carousel.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 79,
+      "id": 87,
       "name": "./node_modules/react-responsive-carousel/lib/components/Carousel.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "classnames": [
     {
-      "id": 82,
+      "id": 90,
       "name": "./node_modules/classnames/index.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 82,
+      "id": 90,
       "name": "./node_modules/classnames/index.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./react-swipe": [
     {
-      "id": 83,
+      "id": 91,
       "name": "./node_modules/react-easy-swipe/lib/react-swipe.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 83,
+      "id": 91,
       "name": "./node_modules/react-easy-swipe/lib/react-swipe.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "../dimensions": [
     {
-      "id": 87,
+      "id": 95,
       "name": "./node_modules/react-responsive-carousel/lib/dimensions.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 87,
+      "id": 95,
       "name": "./node_modules/react-responsive-carousel/lib/dimensions.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "../customPropTypes": [
     {
-      "id": 88,
+      "id": 96,
       "name": "./node_modules/react-responsive-carousel/lib/customPropTypes.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 88,
+      "id": 96,
       "name": "./node_modules/react-responsive-carousel/lib/customPropTypes.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "react-responsive-carousel/lib/styles/carousel.min.css": [
     {
-      "id": 89,
+      "id": 97,
       "name": "./node_modules/react-responsive-carousel/lib/styles/carousel.min.css",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 89,
+      "id": 97,
       "name": "./node_modules/react-responsive-carousel/lib/styles/carousel.min.css",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./NavLink": [
     {
-      "id": 101,
+      "id": 109,
       "name": "./node_modules/react-router-dom/es/NavLink.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 101,
+      "id": 109,
       "name": "./node_modules/react-router-dom/es/NavLink.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./toPairs.js": [
+    {
+      "id": 110,
+      "name": "./node_modules/ramda/es/toPairs.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 110,
+      "name": "./node_modules/ramda/es/toPairs.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./isNil.js": [
     {
-      "id": 102,
+      "id": 111,
       "name": "./node_modules/ramda/es/isNil.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 102,
+      "id": 111,
       "name": "./node_modules/ramda/es/isNil.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "./isEmpty.js": [
+  "./concat.js": [
     {
-      "id": 104,
-      "name": "./node_modules/ramda/es/isEmpty.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 113,
+      "name": "./node_modules/ramda/es/concat.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 104,
-      "name": "./node_modules/ramda/es/isEmpty.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 113,
+      "name": "./node_modules/ramda/es/concat.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./compose.js": [
+    {
+      "id": 114,
+      "name": "./node_modules/ramda/es/compose.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 114,
+      "name": "./node_modules/ramda/es/compose.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./map.js": [
+    {
+      "id": 115,
+      "name": "./node_modules/ramda/es/map.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 115,
+      "name": "./node_modules/ramda/es/map.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./BrowserRouter": [
     {
-      "id": 105,
+      "id": 116,
       "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 105,
+      "id": 116,
       "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
-  "./Switch": [
+  "./prop.js": [
     {
-      "id": 106,
-      "name": "./node_modules/react-router-dom/es/Switch.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "id": 117,
+      "name": "./node_modules/ramda/es/prop.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 106,
-      "name": "./node_modules/react-router-dom/es/Switch.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "id": 117,
+      "name": "./node_modules/ramda/es/prop.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./isEmpty.js": [
+    {
+      "id": 118,
+      "name": "./node_modules/ramda/es/isEmpty.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 118,
+      "name": "./node_modules/ramda/es/isEmpty.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ],
   "./withRouter": [
     {
-      "id": 107,
+      "id": 119,
       "name": "./node_modules/react-router-dom/es/withRouter.js",
-      "file": "static/css/2.f07b1347.chunk.css",
-      "publicPath": "static/css/2.f07b1347.chunk.css"
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
     },
     {
-      "id": 107,
+      "id": 119,
       "name": "./node_modules/react-router-dom/es/withRouter.js",
-      "file": "static/js/2.56b65618.chunk.js",
-      "publicPath": "static/js/2.56b65618.chunk.js"
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
+    }
+  ],
+  "./Switch": [
+    {
+      "id": 120,
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "static/css/2.f295b756.chunk.css",
+      "publicPath": "static/css/2.f295b756.chunk.css"
+    },
+    {
+      "id": 120,
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "static/js/2.1a429d15.chunk.js",
+      "publicPath": "static/js/2.1a429d15.chunk.js"
     }
   ]
 }
