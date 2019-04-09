@@ -9,7 +9,7 @@ class HomePage extends Component {
             <div className="homePage">
                 <HomeCarousel/>
                 <div className="description">
-                    D Innovations is a multidisciplinary architecture, interior design, landscaping and urban planning firm founded in 2000.
+                    D Innovations is a multidisciplinary architecture, interior design and landscaping firm.
                 </div>
             </div>
         );

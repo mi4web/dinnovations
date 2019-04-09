@@ -11,11 +11,11 @@ class About extends Component {
                 </div>
                 <div className='profile flex-row a-c'>
                     <p className="profileDesc">
-                        D Innovations is a multidisciplinary architecture, interior design, landscaping and urban planning firm founded in 1967.
+                        D Innovations is a multidisciplinary architecture, interior design and landscaping firm.
 
-                        Mr. M J Naseem & Mr. Kapoor are the Joint Principal Architects of D Innovations.
+                        Vijay&nbsp;Kapoor & M&nbsp;J&nbsp;Naseem are the Joint Principal Architects of D Innovations.
 
-                        The firm works at multiple scales and with various organizations right from private clients to corporates & NGOs. This allows us to experiment and diversify our work: architectural & interior projects such as luxury villas, high end residences and unique offices, as well as hospitality & institutional projects, several charitable works including earthquake and cyclone proof buildings in Karaikkal (Tamil Nadu), Vijaywada & Hyderabad (Andhra Pradesh), Latur (Maharashtra) and Rajkot (Gujarat).
+                        The firm works at multiple scales and with various organizations right from private clients to corporates. This allows us to experiment and diversify our work: architectural & interior projects such as luxury villas, high end residences and unique offices.
 
                         D Innovations design approach is to re-connect architecture with nature, make optimum use of space, natural materials, lighting & landscape to reinvent and transform living environments and urban spaces.
 

@@ -14,7 +14,7 @@ class DefaultLayout extends Component {
             <div className="mainContainer">
                 <div className="flex-row j-sb a-c deskTopNav">
                     <NavBar items={NAV}/>
-                    <div className="brandName">D Innovations</div>
+                    <div className="brandName"><span className="brandColor">D I</span>nnovations</div>
                 </div>
                 <Hamburger />
                 {this.props.children}

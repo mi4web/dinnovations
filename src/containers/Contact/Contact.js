@@ -26,8 +26,9 @@ class Contact extends Component {
                     <div className="head"><span>Studio</span></div>
                     <p>
                         D Innovations <br/>
-                        Savita Vihar Market <br/>
-                        Savita Vihar, Anand Vihar, Delhi, 110092
+                        101, Ajnara Tower <br/>
+                        LSC, Savita Vihar  <br/>
+                        Delhi, 110092
                     </p>
                     <div className="contactItem">
                         T:
