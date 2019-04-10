@@ -1,5 +1,8 @@
+@import "../../commonstyles/variables.scss";
+
 @media only screen and (max-width: 767px) {
     .head {
+        color: $text-secondary;
         display: block;
         text-align: center;
         font-size: 1.15rem;
