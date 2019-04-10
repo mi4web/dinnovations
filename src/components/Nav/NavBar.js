@@ -14,7 +14,7 @@ class NavBar extends Component {
                     {items.map((item, index) => {
 
                         return <NavLink to={getPathByName(item.route)} activeClassName="active" key={index} exact>
-                            {item.text}
+                            <span>{item.text}</span>
                         </NavLink>
                     })}
                 </nav>

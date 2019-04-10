@@ -10,6 +10,7 @@
             color: $grey3;
             font-size: 0.85rem;
             padding: 20px;
+            transition: color ease-in 200ms;
 
             &:first-child {
                 padding-left: 0px;
@@ -19,14 +20,28 @@
                 margin-right: 25px;
             }
 
-            &:hover {
+            &:hover, &.active {
                 color: $brandColor;
             }
 
             &.active {
-                font-weight: 500;
-                color: $text-primary
+                span:after {
+                    width: 100%;
+                }
             }
+            span {
+                position: relative;
+                &:after {
+                    content: ' ';
+                    position: absolute;
+                    top: 100%;
+                    left: 0;
+                    height: 2px;
+                    background-color: $brandColor;
+                    width: 0%;
+                }
+            }
+
         }
     }
 }
